@@ -11,11 +11,13 @@
           src="https://img.shields.io/badge/email-jordaniza%40proton.me?style=for-the-badge&logo=email&logoColor=white"/></a>              -->
 </p>
 
-Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smart contracts at [Auxo DAO](https://auxo.fi).
+Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smart contracts at [Auxo DAO](https://auxo.fi). 
 
-I'm into Music, Fitness, Programming and Startups.
+I love learning new things and new technologies, and have a particular fondness for anything that's well written. Recommendations extremely welcome.
 
-I love learning and especially also enjoy reading anything well-written. Please consider DMs and my mailbox especially open for any recommendations.
+I'm currently refining a series on [learning Assembly by Hacking Smart Contracts](https://jordaniza.netlify.app) which I would absolutely love some feedback on.
+
+In my free time I love music (Guitar, DJing and general nightlife), fitness and Crossfit, cooking and reading weird books.
 
 ## Some of my favourite projects:
 
