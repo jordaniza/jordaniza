@@ -7,8 +7,8 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://jordaniza.netlify.app" target="_blank"><img alt="My Site"
         src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>
-    <a href="mailto:jordaniza@proton.me" target="_blank"><img alt="Email"
-          src="https://img.shields.io/badge/email-jordaniza%40proton.me?style=for-the-badge&logo=email&logoColor=white"/></a>             
+    <!-- <a href="mailto:jordaniza@proton.me" target="_blank"><img alt="Email"
+          src="https://img.shields.io/badge/email-jordaniza%40proton.me?style=for-the-badge&logo=email&logoColor=white"/></a>              -->
 </p>
 
 Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smart contracts at [Auxo DAO](https://auxo.fi).
