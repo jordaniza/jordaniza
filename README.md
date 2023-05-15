@@ -56,8 +56,8 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ## Programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaniza)](https://github.com/anuraghazra/github-readme-stats&layout=compact&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jordaniza&&hide=webassembly&layout=compact&langs_count=10&theme=dracula)
 
 ## My Github Stats
 
-[![Jordans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaniza)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=dracula)
+![Jordans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jordaniza&layout=compact&theme=dracula&rank_icon=github&show_icons=true)
