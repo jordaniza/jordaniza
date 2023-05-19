@@ -13,11 +13,11 @@
 
 Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smart contracts at [Auxo DAO](https://auxo.fi). 
 
-I love learning new things and new technologies, and have a particular fondness for anything that's well written. Recommendations extremely welcome.
+I love learning new things and new technologies. Recommendations on interesting things to read are extremely welcome.
 
 I'm currently refining a series on [learning Assembly by Hacking Smart Contracts](https://jordaniza.netlify.app) which I would absolutely love some feedback on.
 
-In my free time I love music (Guitar, DJing and general nightlife), fitness and Crossfit, cooking and reading weird books.
+In my free time I love music, fitness, cooking and reading weird books.
 
 ## Some of my favourite projects:
 
