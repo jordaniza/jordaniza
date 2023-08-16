@@ -5,7 +5,7 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://twitter.com/jordanimran2" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://jordaniza.netlify.app" target="_blank"><img alt="My Site"
+    <a href="https://jordaniza.com" target="_blank"><img alt="My Site"
         src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>
     <!-- <a href="mailto:jordaniza@proton.me" target="_blank"><img alt="Email"
           src="https://img.shields.io/badge/email-jordaniza%40proton.me?style=for-the-badge&logo=email&logoColor=white"/></a>              -->
@@ -15,7 +15,7 @@ Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smar
 
 I love learning new things and new technologies. Recommendations on interesting things to read are extremely welcome.
 
-I'm currently refining a series on [learning Assembly by Hacking Smart Contracts](https://jordaniza.netlify.app) which I would absolutely love some feedback on.
+I'm currently refining a series on [learning Assembly by Hacking Smart Contracts](https://jordaniza.com/learn-assembly-by-hacking) which I would absolutely love some feedback on.
 
 In my free time I love music, fitness, cooking and reading weird books.
 
