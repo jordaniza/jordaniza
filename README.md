@@ -9,11 +9,9 @@
         src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>            
 </p>
 
-Hi, I'm Jordan, a fullstack web and blockchain developer, currently writing smart contracts at [Auxo DAO](https://auxo.fi). 
+Hi, I'm Jordan, a fullstack web and blockchain developer, currently technical founder at [Ambos Finance](https://ambos.finance). 
 
 I love learning new things and new technologies. Recommendations on interesting things to read are extremely welcome.
-
-I'm currently refining a series on [learning Assembly by Hacking Smart Contracts](https://jordaniza.com/learn-assembly-by-hacking) which I would absolutely love some feedback on.
 
 In my free time I love music, fitness, cooking and reading weird books.
 
