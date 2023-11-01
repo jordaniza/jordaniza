@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 - Auxo is a DeFi yield farming protocol on Ethereum that rewards stakers who participate in onchain governance.
 - Auxo has a non-dilutive token model: stakers are not diluted by inflation, and instead receive rewards directly in wETH.
-- Auxo is my day-to-day focus, where I work as a Smart Contract development lead.
+- Auxo was my previous focus, where I worked as a Smart Contract development lead.
 
 ### [Learn Assembly by Hacking Smart Contracts](https://jordaniza.netlify.app)
 
