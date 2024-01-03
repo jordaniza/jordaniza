@@ -9,7 +9,7 @@
         src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>            
 </p>
 
-Hi, I'm Jordan, a fullstack web and blockchain developer, currently technical lead at [Ambos Finance](https://ambos.finance). 
+Hi, I'm Jordan, a Web3 Developer, currently technical lead at [Ambos Finance](https://ambos.finance). 
 
 I love learning new things and new technologies. Recommendations on interesting things to read are extremely welcome.
 
