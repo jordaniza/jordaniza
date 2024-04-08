@@ -15,7 +15,7 @@ I love learning new things and new technologies. Recommendations on interesting 
 
 In my free time I love music, fitness, cooking and reading weird books.
 
-## Some of my favourite projects:
+## Some of my past projects:
 
 ### [Auxo](https://auxo.fi)
 
