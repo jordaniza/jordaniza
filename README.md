@@ -19,7 +19,7 @@ In my free time I love music, fitness, cooking and reading weird books.
 
 ### vaults.rip
 
-<a href="https://github.com/jordaniza/vaults.rip" target="_blank"><img alt="RFQ" src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=github&logoColor=white"/></a>   
+<a href="https://github.com/jordaniza/vaults.rip" target="_blank"><img alt="vaults.rip" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>   
 
 - An LLM skill to validate DeFi vault configuration (starting with Morpho V2)
 - I realised after years of depositing into vaults like Morpho and Euler, that I had a fairly surface-level understanding of the various controls curators have to direct vault capital.
