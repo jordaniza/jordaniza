@@ -63,10 +63,3 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 - This is a work-in-progress series that I've hosted on my [Astro](https://astro.build/) blog, where I take you through writing EVM Assembly code (Yul & Bytecode) in a hands-on way.
 - In it we complete challenges in the [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com) using pure assembly, something [I have been doing myself](https://github.com/jordaniza/assemblynaut)
 
-## Programming languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jordaniza&&hide=webassembly&layout=compact&langs_count=10&theme=dracula)
-
-## My Github Stats
-
-![Jordans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jordaniza&layout=compact&theme=dracula&rank_icon=github&show_icons=true)
